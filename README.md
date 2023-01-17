@@ -5,4 +5,5 @@ ____
 ___
 ## ТЕСТЫ НАХОДЯТСЯ В app->src->test/java/com/example/ipr1->ExampleUnitTest.java
 ____
-![8_Bad1lYyFs](https://user-imagtest/java/com/example/ipr1es.githubusercontent.com/54409358/211218940-18ae9503-8a19-47c4-bba6-a2c011aa7b34.jpg)
+
+![8_Bad1lYyFs](https://user-images.githubusercontent.com/54409358/212848995-ca1c8ebd-4184-4083-8166-55de87534e68.jpg)
