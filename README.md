@@ -3,4 +3,6 @@
 ____
 ВАРИАНТ 4. РЕАЛИЗОВАТЬ ИСПОЛЬЗОВАНИЕ АКСЕЛЕРОМЕТРА ДЛЯ УПРАВЛЕНИЯ ШАРИКОМ.
 ___
-![8_Bad1lYyFs](https://user-images.githubusercontent.com/54409358/211218940-18ae9503-8a19-47c4-bba6-a2c011aa7b34.jpg)
+## ТЕСТЫ НАХОДЯТСЯ В app->src->test/java/com/example/ipr1->ExampleUnitTest.java
+____
+![8_Bad1lYyFs](https://user-imagtest/java/com/example/ipr1es.githubusercontent.com/54409358/211218940-18ae9503-8a19-47c4-bba6-a2c011aa7b34.jpg)
