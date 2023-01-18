@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 import org.mockito.Mock;
 import org.mockito.Mockito;
-import static org.mockito.Mockito.verify;
+import org.mockito.Mockito.verify
 
 @RunWith(JUnit4.class)
 public class MainUnitTest {
